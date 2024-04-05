@@ -31,6 +31,5 @@
 2.  `npm i`
 3.  `npm run dev`
 
-## Request
 
 #### I Learn From Youtube 😅
