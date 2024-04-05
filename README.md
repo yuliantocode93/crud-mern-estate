@@ -12,7 +12,7 @@
 
 **_Frontend_**
 
-- React 
+- React
 - Redux
 - Tailwind css
 
@@ -23,13 +23,14 @@
 `git clone https://github.com/yuliantocode93/sample-fullstack-simple-mern.git`
 
 **For Backend**
+
 1.  `npm i`
 2.  `npm run dev`
 
 **For Frontend**
+
 1.  `cd client`
 2.  `npm i`
 3.  `npm run dev`
-
 
 #### I Learn From Youtube 😅
