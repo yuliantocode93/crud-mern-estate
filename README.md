@@ -11,7 +11,8 @@
 - Express
 
 **_Frontend_**
-- React Js
+
+- React 
 - Redux
 - Tailwind css
 
