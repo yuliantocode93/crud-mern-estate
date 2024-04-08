@@ -20,7 +20,7 @@
 
 ## Step to Start Project
 
-Clone the repository from :`git clone https://github.com/yuliantocode93/crud-mern-estate.git`
+Clone the repository from :`git clone https://github.com/yuliantocode93/crud-mern-properties.git`
 
 **For Backend**
 
