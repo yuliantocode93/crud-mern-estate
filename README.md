@@ -1,4 +1,4 @@
-# MERN-Estate-Marketplace
+# MERN-Properties-Marketplace
 
 **Please run this project on local for checking.**
 
