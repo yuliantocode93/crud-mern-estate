@@ -8,6 +8,7 @@
 
 - Nodejs
 - Mongodb
+- Firebase
 - Express
 
 **_Frontend_**
@@ -24,13 +25,13 @@ Clone the repository from :`git clone https://github.com/yuliantocode93/crud-mer
 
 **For Backend**
 
-1.  `npm i`
-2.  `npm run dev`
+1. `add MONGO & JWT SECRET to .env`
+2. `npm i`
+3. `npm run dev`
 
 **For Frontend**
 
-1.  `cd client`
-2.  `npm i`
-3.  `npm run dev`
-
-#### If you like project then feel free to give Star 😅
+1. `add VITE_FIREBASE_API_KEY to .env`
+2. `cd client`
+3. `npm i`
+4. `npm run dev`
