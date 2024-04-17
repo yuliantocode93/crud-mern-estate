@@ -31,7 +31,7 @@ Clone the repository from :`git clone https://github.com/yuliantocode93/crud-mer
 
 **For Frontend**
 
-1. `add VITE_FIREBASE_API_KEY to .env`
-2. `cd client`
+1. `cd client`
+2. `add VITE_FIREBASE_API_KEY to .env`
 3. `npm i`
 4. `npm run dev`
