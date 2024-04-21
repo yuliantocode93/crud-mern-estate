@@ -3,7 +3,6 @@ import { useRef, useState, useEffect } from "react";
 import { getDownloadURL, getStorage, ref, uploadBytesResumable } from "firebase/storage";
 import { Link } from "react-router-dom";
 import { app } from "../firebase";
-
 import { updateUserStart, updateUserSuccess, updateUserFailure, deleteUserStart, deleteUserSuccess, deleteUserFailure, signOutUserStart } from "../redux/user/userSlice";
 
 export default function Profile() {
@@ -180,7 +179,6 @@ export default function Profile() {
         Show Listings
       </button>
       <p className="text-red-700 mt-5">{showListingsError ? "Error showing listings" : ""}</p>
-
       {userListings && userListings.length > 0 && (
         <div className="flex flex-col gap-4">
           <h1 className="text-center mt-7 text-2xl font-semibold">Your Listings</h1>
